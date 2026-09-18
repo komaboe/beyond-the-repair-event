@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.html
+.streamlit/secrets.toml
